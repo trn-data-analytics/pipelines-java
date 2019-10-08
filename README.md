@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TrinityRail-MuSigma/ML-Automation-of-Estimates/_apis/build/status/trn-data-analytics.pipelines-java?branchName=master)](https://dev.azure.com/TrinityRail-MuSigma/ML-Automation-of-Estimates/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
